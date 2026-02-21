@@ -29,7 +29,7 @@ Modern styling using utility-first CSS
 🏗️ System Architecture
 
 The application follows a modular component structure:
-
+```bash
 src/
  ├── components/
  │    ├── Navbar.jsx
@@ -42,6 +42,7 @@ src/
  ├── App.jsx
  ├── main.jsx
  └── index.css
+```
 
 Each section is implemented as an independent reusable component, enabling scalability and easier maintenance.
 

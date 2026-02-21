@@ -83,11 +83,13 @@ Node.js installed
 npm or yarn package manager
 
 Setup Steps
-python
+##Installation
+``` bash
 git clone https://github.com/your-username/your-repo-name.git
 cd portfolio
 npm install
 npm run dev
+``` 
 
 The application will run locally using Vite’s development server.
 

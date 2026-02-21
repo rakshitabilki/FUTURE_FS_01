@@ -25,6 +25,7 @@ src/
  ├── App.jsx
  ├── main.jsx
  └── index.css
+
 ⚡ Performance & Optimization
 
 Vite-powered build system for fast development and optimized production bundling

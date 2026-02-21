@@ -83,6 +83,7 @@ Node.js installed
 npm or yarn package manager
 
 Setup Steps
+python
 git clone https://github.com/your-username/your-repo-name.git
 cd portfolio
 npm install
